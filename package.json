@@ -49,6 +49,8 @@
     "@dcloudio/uni-mp-weixin": "3.0.0-alpha-3040820220424001",
     "@dcloudio/uni-quickapp-webview": "3.0.0-alpha-3040820220424001",
     "@dcloudio/uni-ui": "^1.4.20",
+    "delay": "^5.0.0",
+    "lodash": "^4.17.21",
     "vue": "^3.2.37",
     "vue-i18n": "^9.1.9",
     "vuex": "^4.0.2"
