@@ -1,3 +1,4 @@
+<!--suppress HtmlUnknownAttribute -->
 <template>
   <view class="content">
     <image class="logo" src="/static/logo.png" />
