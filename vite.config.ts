@@ -8,6 +8,7 @@ export default defineConfig({
     uni(),
     checker({
       vueTsc: true,
+      eslint: {lintCommand: 'eslint "src/{**/*,*}.{ts,tsx,vue}"'},
     }),
   ],
 });
